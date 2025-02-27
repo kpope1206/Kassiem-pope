@@ -33,10 +33,10 @@ This tutorial outlines how we can create a virtual machine to use remotely on ou
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/c41bb9ce-bf48-4f1a-84ed-6fd9a99498ce" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is the main page in Microsoft Azure that you will see once you have downloaded it and created your account. Once on this page you will see all of the menus. Locate the Virtual Machine menu and lets get started. 
 </p>
 <img width="714" alt="Image" src="https://github.com/user-attachments/assets/d0f91262-d2c5-4668-b37b-c22bb57a43ed" />
 <br />
