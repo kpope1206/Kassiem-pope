@@ -51,7 +51,7 @@ While on the Home page you can either go to the search baar and type the words "
 <img width="353" alt="Image" src="https://github.com/user-attachments/assets/5d0addf9-a9e4-4fb9-8d3a-2730608671b2" />
 </p>
 <p>
-Once you have clicked on the create button, you will see a number of options appear. Click on the very top one "Azure Virtual Machines". This is the one that will bring you to the pages where you can go through and customize your VM to your specific liking, like in the video.
+Once you have clicked on the create button, you will see a number of options appear. Click on the very top one "Azure Virtual Machines". This is the one that will bring you to the pages where you can go through and customize your VM to your specific liking.
 </p>
 <br />
 
