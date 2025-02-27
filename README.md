@@ -38,13 +38,12 @@ This tutorial outlines how we can create a virtual machine to use remotely on ou
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
+<img width="714" alt="Image" src="https://github.com/user-attachments/assets/d0f91262-d2c5-4668-b37b-c22bb57a43ed" />
 <br />
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+While on the Home page you can either go to the search baar and type the words "Virtual Machines", or you can just bring your cursor over the VM logo and click on it. This prompt will appear telling you that there is no VM created, and you will be asked to create one by clicking the create button. 
 </p>
 <br />
 
