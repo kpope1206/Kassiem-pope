@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Virtual Machines (How to create a Virtual machine in Azure)</b>
-  - [Virtual Machine ](https://github.com/kpope1206/virtual machine)
+  - [Virtual Machine ](https://github.com/kpope1206/virtualmachine)
  
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
