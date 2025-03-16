@@ -1,7 +1,7 @@
 # Kassiem-pope
-<h1>Hi, I'm Kassiem, an <a href="https://linkedin.com/in/kassiem">IT Professional</a>☺</h1>
+<h1>Hi, I'm Kassiem, an <a href="https://linkedin.com/in/kassiem">IT Professional</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Information Technology Projects:</h2>
 
 - <b>Virtual Machines (How to create a Virtual machine in Azure)</b>
   - [Virtual Machine ](https://github.com/kpope1206/virtualmachine)
@@ -16,7 +16,6 @@ This tutorial outlines how we can create a virtual machine to use remotely on ou
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
 
 <h2>Operating Systems Used </h2>
 
@@ -24,8 +23,6 @@ This tutorial outlines how we can create a virtual machine to use remotely on ou
 
 <h2>List of Prerequisites</h2>
 
-- Downloading Microsoft Azure
-- Creating an account in Microsoft Azure
 - Creating a Resource Group
 - Creating a Virtual Machine to put in your Resource Group 
 
@@ -36,14 +33,15 @@ This tutorial outlines how we can create a virtual machine to use remotely on ou
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/c41bb9ce-bf48-4f1a-84ed-6fd9a99498ce" />
 </p>
 <p>
-This is the main page in Microsoft Azure that you will see once you have downloaded it and created your account. Once on this page you will see all of the menus. Locate the Virtual Machine menu and lets get started. 
+This is the main page that ypu will see once you have created your Microsoft Azure account. Once here you will see all the different tabs and menus that can be used to get started. We will just focus on how to create your first Virtual Machine. Lets get STARTED! 
+We will first get started by creating our Resource Group. This is where we will place all of our Virtual Machines together so that we have a grouping of all VM's related to a same project and not get them jumbled up.
 </p>
 <img width="714" alt="Image" src="https://github.com/user-attachments/assets/d0f91262-d2c5-4668-b37b-c22bb57a43ed" />
 <br />
 
 
 <p>
-While on the Home page you can either go to the search baar and type the words "Virtual Machines", or you can just bring your cursor over the VM logo and click on it. This prompt will appear telling you that there is no VM created, and you will be asked to create one by clicking the create button. 
+While on the Home page you can either go to the search bar and type the words "Virtual Machines", or you can just bring your cursor over the VM logo and click on it. This prompt will appear telling you that there is no VM created, and you will be asked to create one by clicking the create button. 
 </p>
 <br />
 
